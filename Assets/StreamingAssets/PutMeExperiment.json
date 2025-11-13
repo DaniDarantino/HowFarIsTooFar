@@ -1,0 +1,11 @@
+{
+    "n_main_trials" : "9",
+    "minVelocity" : "6",
+    "velocityIncrement" : "2",
+    "n_jumps_per_trial" : "15",
+    "small_platform_diameter" : "0.4",
+    "medium_platform_diameter" : "0.8",
+    "large_platform_diameter" : "1.2",
+    "platform_gap" : "0.5",
+    "platform_lateral_offset" : "1.0"
+}
