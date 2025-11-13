@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 923aa3a6b99b4f1499d1a3aeb90df0c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - targetLocationVisualization: {instanceID: 0}
+  - teleportModeActivate: {instanceID: 0}
+  - teleportModeCancel: {instanceID: 0}
+  - teleportValidLineMaterial: {fileID: 2100000, guid: 92c458d658d953f4588489c06de30b56,
+      type: 2}
+  - teleportInvalidLineMaterial: {fileID: 2100000, guid: 403ce6573e585fe4784ca0381e3d7eb6,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

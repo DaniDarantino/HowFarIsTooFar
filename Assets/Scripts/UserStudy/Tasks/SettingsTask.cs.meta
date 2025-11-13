@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9876f989ce32da247971c735b470e2af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - IA_FaceButtonsRight: {fileID: -3364131981043711046, guid: 1a8ffdbba106d48458f0a1c9cd4824bd,
+      type: 3}
+  - IA_FaceButtonsLeft: {fileID: 4037464705129817245, guid: 1a8ffdbba106d48458f0a1c9cd4824bd,
+      type: 3}
+  - IA_ConfirmButton: {fileID: 6039787460779848558, guid: 1a8ffdbba106d48458f0a1c9cd4824bd,
+      type: 3}
+  - IA_ConfirmButtonHold: {fileID: -5015824272216142266, guid: 1a8ffdbba106d48458f0a1c9cd4824bd,
+      type: 3}
+  - ImageRight: {instanceID: 0}
+  - ImageLeft: {instanceID: 0}
+  - HandednessUI: {instanceID: 0}
+  - UserIDUI: {instanceID: 0}
+  - txtID: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
