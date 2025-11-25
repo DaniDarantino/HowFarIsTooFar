@@ -4,7 +4,7 @@ This project contains the source code for the user study of the paper: "How Far 
 # Replicate the User Study
 There are two ways to replicate our user study.
 ## 1. Replication with VR Headset
-Download the .apk file that we published on Zenodo: https://doi.org/10.5281/zenodo.15094087 and install it on a Meta Quest 3 VR Headset. Start the application and follow the instructions presented on screen.
+Go to the Build folder and unzip the "AndroidRelease.zip" file. Install the .apk file on a Meta Quest 3 VR Headset. Start the application and follow the instructions presented on screen.
 Controls are as follows: To select the handedness, select the appropriate hand icon using the controller's trigger button. Click through the user interface using any of the face buttons (A/B or Y/X) depending on the chosen handedness.
 In the river scene, you can teleport by holding the trigger button. After aiming, releasing the trigger button will result in a teleport or an error sound being played, depending on the chosen target location.
 
