@@ -8,7 +8,7 @@ Download the .apk file that we published on Zenodo: https://doi.org/10.5281/zeno
 Controlls are as follows: To select the handedness, select the appropriate hand icon using the controllers trigger button. Click through the userr interface using any of the face buttons (A/B or Y/X) depending on the choosen handedness.
 In the river scene you can teleport by holding the trigger button. After aiming, releasing the trigger button will result in a teleport or an error sound being played depending on the chosen target location.
 
-## 2. Replicate without VR Headset
+## 2. Replication without VR Headset
 If you still want to explore the application of our user study without acess to a VR Headset, go to the Build folder unzip the "WindowsRelease.zip" file and double click the "PutMeThere.exe" file which should launch the application with the Unity XR Device Simulator activated.
 Controlls are as follows: to open the controlls overview click on the + icon in the bottom left of the screen (it might already be expanded by default). With the Tab key, you can switch between controlling the HMD, the left or the right controller. To advance to the river scene e.g. press tab twice to controll the right controller, then press N to to click through the initial user interfaces. On the river scene you can teleport by holding the left mouse button, move the mouse to aim and then let go of the left mouse button to teleport (make sure the controller is selected, the XR Device Simulator controll panel should visualize this accorrdingly, by pressing tab you can cycle through the different devices).
 
